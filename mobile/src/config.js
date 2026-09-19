@@ -6,4 +6,4 @@
 //  - Simulador iOS / Web:     "http://localhost:8000"
 //
 // El celular y el PC deben estar en la MISMA red WiFi.
-export const API_URL = "http://localhost:8000";
+export const API_URL = "http://192.168.1.5:8000";
